@@ -4,4 +4,4 @@ This was cleaned and preprocessed using R. The R script can be found under "Data
 The cleaned dataset can be found as the "data_stroke_undersampled" CSV file.
 Each Jupyter notebook containes different machine learning models and visualization techniques for the processed dataset.
 Each of them are under the name of the team member that used and coded them.
-Some files might not show a preview due to the size of them and might need to be downloaded in order to see the code
+Some files might not show a preview due to the size of them and might need to be downloaded in order to see the code such as one of the Jupyter notebooks
