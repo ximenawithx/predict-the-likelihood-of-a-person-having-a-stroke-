@@ -4,4 +4,4 @@ This was cleaned and preprocessed using R. The R script can be found under "Data
 The cleaned dataset can be found as the "data_stroke_undersampled" CSV file.
 Each Jupyter notebook containes different machine learning models and visualization techniques for the processed dataset.
 Each of them are under the name of the team member that used and coded them.
-Some files might not show a preview due to the size of them and might need to be downloaded in order to see the code such as one of the Jupyter notebooks
+Some files might not show a preview due to the size of them and might need to be downloaded in order to see the code such as one of the Jupyter notebooks. The file "6509217 SyedaFizzaRaza.ipynb" does not render as it is big and takes time. It can be viewed and rendered instead in NBviewer by passing the files github URL in the nbviewer -->  https://nbviewer.org/ 
